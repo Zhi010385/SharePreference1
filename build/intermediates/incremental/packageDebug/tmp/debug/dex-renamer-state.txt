@@ -1,0 +1,4 @@
+#Tue Aug 25 13:07:40 SGT 2020
+base.0=C\:\\Users\\user\\Desktop\\Practical week 8\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
